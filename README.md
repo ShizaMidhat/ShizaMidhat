@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @ShizaMidhat
-- 👀 I’m interested in Graphic designing and web developing projects
-- 🌱 I’m currently learning Web 3.0 Metaverse
-<!---
-ShizaMidhat/ShizaMidhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi... I'm Shiza Midhat 
+A Graphic Designer and full Stack Developer and an advocate for building responsive, accessible and inclusive digital products and experiences for the web.
+Open to project collaborations.
+You can reach me through: | Linkedin:www.linkedin.com/in/shiza-midhat-ba7a1a296
+Open to interview.
